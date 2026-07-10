@@ -1,0 +1,6 @@
+{
+  "name": "Grand 3D Park Simulator",
+  "description": "An immersive, high-fidelity 3D Park and neighborhood built with Three.js. Includes orange brick row houses, responsive asphalt roads, streetlights, a first-person exploration mode, customizable climate conditions, and an interactive Grand Gate Key Hunt mini-game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
